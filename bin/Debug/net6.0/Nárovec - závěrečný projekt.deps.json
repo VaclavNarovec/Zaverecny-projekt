@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nárovec - závěrečný projekt/1.0.0": {
+        "runtime": {
+          "Nárovec - závěrečný projekt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nárovec - závěrečný projekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

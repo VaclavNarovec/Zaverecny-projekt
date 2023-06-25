@@ -1,0 +1,15 @@
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\obj\Debug\net6.0\Nárovec - závěrečný projekt.csproj.AssemblyReference.cache
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\obj\Debug\net6.0\Nárovec - závěrečný projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\obj\Debug\net6.0\Nárovec - závěrečný projekt.AssemblyInfoInputs.cache
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\obj\Debug\net6.0\Nárovec - závěrečný projekt.AssemblyInfo.cs
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\obj\Debug\net6.0\Nárovec - závěrečný projekt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\bin\Debug\net6.0\Nárovec - závěrečný projekt.exe
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\bin\Debug\net6.0\Nárovec - závěrečný projekt.deps.json
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\bin\Debug\net6.0\Nárovec - závěrečný projekt.runtimeconfig.json
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\bin\Debug\net6.0\Nárovec - závěrečný projekt.dll
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\bin\Debug\net6.0\Nárovec - závěrečný projekt.pdb
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\obj\Debug\net6.0\Nárovec - závěrečný projekt.dll
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\obj\Debug\net6.0\refint\Nárovec - závěrečný projekt.dll
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\obj\Debug\net6.0\Nárovec - závěrečný projekt.pdb
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\obj\Debug\net6.0\Nárovec - závěrečný projekt.genruntimeconfig.cache
+C:\Users\DELL\Dropbox\Závěrečný projekt\Nárovec - závěrečný projekt\Nárovec - závěrečný projekt\obj\Debug\net6.0\ref\Nárovec - závěrečný projekt.dll
